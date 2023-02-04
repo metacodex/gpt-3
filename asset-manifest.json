@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gpt-3/static/css/main.44d5fb6b.css",
+    "main.js": "/gpt-3/static/js/main.675db27a.js",
+    "static/media/ai.webp": "/gpt-3/static/media/ai.92a1066448a3c813d449.webp",
+    "static/media/blog03.webp": "/gpt-3/static/media/blog03.df8cd5d1bea37996207b.webp",
+    "static/media/blog04.webp": "/gpt-3/static/media/blog04.04cb0d1b8f3c7b8c3793.webp",
+    "static/media/blog05.webp": "/gpt-3/static/media/blog05.04006809bda70ea4b7ac.webp",
+    "static/media/blog02.webp": "/gpt-3/static/media/blog02.9cf41608ee6ecd651c17.webp",
+    "static/media/possibility.webp": "/gpt-3/static/media/possibility.76c01d7864f5003b4bf0.webp",
+    "static/media/blog01.webp": "/gpt-3/static/media/blog01.3f21119bde87fd43ba8e.webp",
+    "static/media/people.webp": "/gpt-3/static/media/people.ddaeb5f777604a41b0a2.webp",
+    "static/media/atlassian.webp": "/gpt-3/static/media/atlassian.f2e0022662c3c262eb19.webp",
+    "static/media/dropbox.webp": "/gpt-3/static/media/dropbox.a343e23f3bbd4b31129b.webp",
+    "static/media/logo.svg": "/gpt-3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/shopify.webp": "/gpt-3/static/media/shopify.495a6e31fd200e159745.webp",
+    "static/media/slack.webp": "/gpt-3/static/media/slack.f9592d915678df2da797.webp",
+    "static/media/google.webp": "/gpt-3/static/media/google.a5811aba942daf3a6226.webp",
+    "index.html": "/gpt-3/index.html",
+    "main.44d5fb6b.css.map": "/gpt-3/static/css/main.44d5fb6b.css.map",
+    "main.675db27a.js.map": "/gpt-3/static/js/main.675db27a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d5fb6b.css",
+    "static/js/main.675db27a.js"
+  ]
+}
